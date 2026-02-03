@@ -1,4 +1,4 @@
-baseURL = "https://ra6bit.github.io"
+baseURL = "https://bunny.direct"
 title   = "Bunny Direct"
 languageCode = "en-us"
 theme = "hugo-theme-hello-friend-ng"
